@@ -60,7 +60,7 @@ Overall, the use of colors as cooperation vessels is an innovative idea that has
 
 `DAO Democracy`:Can you invent a language for repositories using color to help with cooperation 
 
-ChatGPT Pro: Creating a language for repositories using color to help with cooperation could be a useful way to promote collaboration and innovation among engineers working on the ORCA platform. Here's an example of how such a language could be created:
+`ChatGPT Pro:` Creating a language for repositories using color to help with cooperation could be a useful way to promote collaboration and innovation among engineers working on the ORCA platform. Here's an example of how such a language could be created:
 
     Start by selecting a set of base colors: The first step in creating a language for repositories using color is to select a set of base colors that will be used to represent different types of code projects. For example, you could use blue for AI projects, green for front-end development, and red for back-end development.
 
